@@ -1,0 +1,21 @@
+{
+  "name": "project_express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "nodemonConfig": {
+    "ignore": ["*.json"]
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "module": "^1.2.5",
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
